@@ -1,86 +1,44 @@
 [
     {
         "type": "Beer",
-        "shop": "Test Shop0",
-        "brand": "Test Brand0",
-        "discount": "Test Discount0",
-        "price": "Test Price0"
-    },
-    {
-        "type": "Wine",
-        "shop": "Test Shop0",
-        "brand": "Test Brand0",
-        "discount": "Test Discount0",
-        "price": "Test Price0"
+        "shop": "Albert Heijn",
+        "brand": "Hertog Jan",
+        "discount": "25%",
+        "price": "14,95"
     },
     {
         "type": "Beer",
-        "shop": "Test Shop1",
-        "brand": "Test Brand1",
-        "discount": "Test Discount1",
-        "price": "Test Price1"
-    },
-    {
-        "type": "Wine",
-        "shop": "Test Shop1",
-        "brand": "Test Brand1",
-        "discount": "Test Discount1",
-        "price": "Test Price1"
+        "shop": "Albert Heijn",
+        "brand": "Heineken",
+        "discount": "25%",
+        "price": "14,95"
     },
     {
         "type": "Beer",
-        "shop": "Test Shop2",
-        "brand": "Test Brand2",
-        "discount": "Test Discount2",
-        "price": "Test Price2"
-    },
-    {
-        "type": "Wine",
-        "shop": "Test Shop2",
-        "brand": "Test Brand2",
-        "discount": "Test Discount2",
-        "price": "Test Price2"
+        "shop": "Plus",
+        "brand": "Hertog Jan",
+        "discount": "25%",
+        "price": "14,95"
     },
     {
         "type": "Beer",
-        "shop": "Test Shop3",
-        "brand": "Test Brand3",
-        "discount": "Test Discount3",
-        "price": "Test Price3"
-    },
-    {
-        "type": "Wine",
-        "shop": "Test Shop3",
-        "brand": "Test Brand3",
-        "discount": "Test Discount3",
-        "price": "Test Price3"
+        "shop": "Plus",
+        "brand": "Heineken",
+        "discount": "25%",
+        "price": "14,95"
     },
     {
         "type": "Beer",
-        "shop": "Test Shop4",
-        "brand": "Test Brand4",
-        "discount": "Test Discount4",
-        "price": "Test Price4"
-    },
-    {
-        "type": "Wine",
-        "shop": "Test Shop4",
-        "brand": "Test Brand4",
-        "discount": "Test Discount4",
-        "price": "Test Price4"
+        "shop": "Jumbo",
+        "brand": "Hertog Jan",
+        "discount": "25%",
+        "price": "14,95"
     },
     {
         "type": "Beer",
-        "shop": "Test Shop5",
-        "brand": "Test Brand5",
-        "discount": "Test Discount5",
-        "price": "Test Price5"
-    },
-    {
-        "type": "Wine",
-        "shop": "Test Shop5",
-        "brand": "Test Brand5",
-        "discount": "Test Discount5",
-        "price": "Test Price5"
+        "shop": "Jumbo",
+        "brand": "Heineken",
+        "discount": "25%",
+        "price": "14,95"
     }
 ]
