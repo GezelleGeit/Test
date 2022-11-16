@@ -4,41 +4,47 @@
         "shop": "Albert Heijn",
         "brand": "Hertog Jan",
         "discount": "25%",
-        "price": "14,95"
+        "price": "14,95",
+        "image": "hertogjan_krat"
     },
     {
         "type": "Beer",
         "shop": "Albert Heijn",
         "brand": "Heineken",
         "discount": "25%",
-        "price": "14,95"
+        "price": "14,95",
+        "image": "heineken_krat"
     },
     {
         "type": "Beer",
         "shop": "Plus",
         "brand": "Hertog Jan",
         "discount": "25%",
-        "price": "14,95"
+        "price": "14,95",
+        "image": "hertogjan_krat"
     },
     {
         "type": "Beer",
         "shop": "Plus",
         "brand": "Heineken",
         "discount": "25%",
-        "price": "14,95"
+        "price": "14,95",
+        "image": "heineken_krat"
     },
     {
         "type": "Beer",
         "shop": "Jumbo",
         "brand": "Hertog Jan",
         "discount": "25%",
-        "price": "14,95"
+        "price": "14,95",
+        "image": "hertogjan_krat"
     },
     {
         "type": "Beer",
         "shop": "Jumbo",
         "brand": "Heineken",
         "discount": "25%",
-        "price": "14,95"
+        "price": "14,95",
+        "image": "heineken_krat"
     }
 ]
